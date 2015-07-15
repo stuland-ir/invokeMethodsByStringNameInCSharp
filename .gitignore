@@ -41,3 +41,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+runMethodByName/bin/Debug/runMethodByName.exe
+*.exe
+runMethodByName/bin/Debug/runMethodByName.vshost.exe.manifest
+*.cache
+runMethodByName/obj/Debug/runMethodByName.csproj.FileListAbsolute.txt
+*.pdb
+runMethodByName/obj/Debug/runMethodByName.Form1.resources
+*.resources
+runMethodByName/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll
